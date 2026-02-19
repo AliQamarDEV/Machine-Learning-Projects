@@ -1,4 +1,4 @@
-#!/home/aliqamar/Desktop/project_one/Machine-Learning-Projects/venv/bin/python3
+#!/home/aliqamar/Desktop/project_one/Machine-Learning-Projects/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
