@@ -1,0 +1,7 @@
+[2026-02-21 15:41:54,275 : INFO : testing : Logger test ✅]
+[2026-02-21 15:41:54,276 : WARNING : testing : Test warning ⚠️]
+[2026-02-21 15:41:54,276 : ERROR : testing : Test error ❌]
+[2026-02-21 15:44:42,459 : INFO : testing : Logger test ✅]
+[2026-02-21 15:44:42,459 : WARNING : testing : Test warning ⚠️]
+[2026-02-21 15:44:42,459 : ERROR : testing : Test error ❌]
+[2026-02-21 15:44:42,460 : ERROR : testing : no error error ❌]

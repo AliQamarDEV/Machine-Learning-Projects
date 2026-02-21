@@ -1,3 +1,4 @@
+from src.DataScience.utils.logger import logger
 import os 
 
 project_name = 'DataScience'
@@ -33,3 +34,5 @@ for i in files_list :
         os.makedirs(os.path.dirname(i),exist_ok=True)
         with open(i,'w') as f : 
             pass
+
+logger.info('Files/Folder Created')
